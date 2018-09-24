@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="Mijn Eerste Version Control Project (Conflicten)" id="e1403482-ccbf-45db-b26e-1cf79d24cc0b" trackingId="3eb1fd6a-7c39-4dcd-9c0f-009cac37f6eb" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="SetUnit NX1P2-9024DT1 Ver. 1.18" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>

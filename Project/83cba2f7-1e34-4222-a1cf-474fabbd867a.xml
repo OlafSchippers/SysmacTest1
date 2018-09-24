@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CpuRackNXBusMaster>
+  <CpuRackNXBusMaster VenderID="1" ProductCode="454623809" Revision="17956864" IONodeID="26596ee1-10ca-4e6c-b42a-b4c2de8c8b82" WaitTimeForAddition="3" CheckSerialNo="0" FailSoftOperation="0" />
+</CpuRackNXBusMaster>
