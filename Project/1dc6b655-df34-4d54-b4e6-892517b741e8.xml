@@ -3,3 +3,4 @@ _EN=Variables
 +GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
 ++D=BOOL	N=Input0	G=VAR_GLOBAL
 ++D=BOOL	N=Output0	G=VAR_GLOBAL
+++D=BOOL	N=Input1	G=VAR_GLOBAL
